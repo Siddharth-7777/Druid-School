@@ -1,0 +1,39 @@
+marquee {
+ background-color: aqua;
+ color: blue;
+ font-weight: bold;
+}
+
+#drummer {
+ width: 70%;
+}
+
+body {
+ text-align: center;
+}
+
+
+#namer {
+ margin-right: 700;
+ margin-bottom: 120;
+ margin-top: -80;
+}
+
+
+#gmail {
+ margin-right: 870;
+ margin-bottom: 130;
+ margin-top: -120;
+}
+
+#insta {
+ margin-right: 1010;
+ margin-bottom: 130;
+ margin-top: -120;
+}
+
+#phone {
+ margin-right: 950;
+ margin-bottom: 130;
+ margin-top: -120;
+}
